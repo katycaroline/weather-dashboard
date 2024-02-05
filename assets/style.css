@@ -1,0 +1,9 @@
+#forecast {
+    position: absolute;
+    left: -3%;
+}
+
+h1 {
+    margin-bottom: 0%;
+    background-image: linear-gradient(to right, rgb(28, 255, 8), rgb(78, 81, 236) , rgb(255, 0, 200));
+}
